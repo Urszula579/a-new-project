@@ -1,0 +1,5 @@
+```sql 
+insert into workers(ID, NAME, sURNAME, PEsEL, BIRTHDAY, sALARY)
+VALUEs(1, Jan, Kowalski, 98071203456, 1998/12/03, 4500)
+```
+# dupa
